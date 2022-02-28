@@ -1,0 +1,19 @@
+segment_sources:
+  PD34EE5E6:
+    type: origin_type
+    relation: translation
+    language: en
+  P6AD504B4:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  8ec542b44d9c42bf8cb98e2063abf7c5:
+    PD34EE5E6: 658fe2da11244605b14434d0f3dd2108
+    P6AD504B4: f1269a908e324da8b3ae0835ed53d94d
+  3f6696cb44fd495d8b0f45981be1afe6:
+    PD34EE5E6: 1244cdccf4c84691a68784ec32042cfe
+    P6AD504B4: b87392f41fb04d13b8c2d977cec35651
+  86f95614a30b41c48781a2f168f7fe86:
+    PD34EE5E6: 567ec6ed078249b3b84aa04b9a15499e
+    P6AD504B4: 377f1fad00c24aab8f13f1eb8e05c4cd
